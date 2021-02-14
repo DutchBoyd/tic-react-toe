@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Arbutus');
+
 body {
     background-image: url("bg.png");
     font: 40px "Century Gothic", Futura, sans-serif;
@@ -22,6 +24,12 @@ body {
   .title {
     text-align: center;
     margin-bottom: 40px;
+    font-family: 'Arbutus';
+    font-size: 50px;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(17, 19, 121);
+    color: aquamarine;
+
 
   }
 
