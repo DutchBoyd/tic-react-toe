@@ -19,6 +19,12 @@ body {
     margin-bottom: 10px;
   }
   
+  .title {
+    text-align: center;
+    margin-bottom: 40px;
+
+  }
+
   .square {
     background: #fff;
     border: 3px solid rgb(113 169 245);
